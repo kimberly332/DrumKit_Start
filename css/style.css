@@ -18,17 +18,17 @@ body,html {
 }
 
 .key {
-  border: .4rem solid #cc7f0d;
+  border: 0.4rem solid #cc7f0d;
   border-radius: 50%;
   margin: 1rem;
   font-size: 1.5rem;
-  padding: 2.25rem .5rem;
-  transition: all .07s ease;
+  padding: 2.25rem 0.5rem;
+  transition: all 0.07s ease;
   width: 10rem;
   text-align: center;
   color: white;
   background: rgba(0,0,0,0.4);
-  text-shadow: 0 0 .5rem black;
+  text-shadow: 0 0 0.5rem black;
 }
 
 .playing {
@@ -45,6 +45,6 @@ kbd {
 .sound {
   font-size: 1.2rem;
   text-transform: uppercase;
-  letter-spacing: .1rem;
+  letter-spacing: 0.1rem;
   color: #ffc600;
 }
